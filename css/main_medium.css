@@ -107,7 +107,7 @@ header.section .inner{
     max-width: none;
     padding: 80px 20px;
   }
-  .section--pricing .card .cell2{
+  .section--pricing .inner .card .cell2{
     font-size: 20px;
   }
 
